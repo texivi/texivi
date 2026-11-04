@@ -2,7 +2,6 @@
 
 <p align="center">
 <a href="https://texivi.github.io"><img src="https://img.shields.io/badge/Site-texivi.github.io-7d7092?style=for-the-badge" alt="Site"></a>
-<a href="https://twitter.com/t3xivi"><img src="https://img.shields.io/badge/Twitter-@t3xivi-7d7092?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
 </p>
 
 ## Projects
