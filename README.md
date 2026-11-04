@@ -29,4 +29,8 @@
 
 ## Activity
 
-<img src="https://ghchart.rshah.org/7d7092/texivi" alt="Contribution graph" width="100%">
+<p>
+<img src="https://img.shields.io/github/followers/texivi?style=for-the-badge&color=7d7092&label=Followers" alt="Followers">
+<img src="https://img.shields.io/github/stars/texivi/Subverge?style=for-the-badge&color=7d7092&label=Subverge%20stars" alt="Subverge stars">
+<img src="https://img.shields.io/github/last-commit/texivi/Subverge?style=for-the-badge&color=7d7092&label=Last%20commit" alt="Last commit">
+</p>
