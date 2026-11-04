@@ -25,6 +25,6 @@
 <path d="M92 410 Q86 388 108 384 Q128 384 128 404 Q128 424 108 426 Q94 426 92 410 Z" fill="#fff"/>
 <path d="M308 410 Q314 388 292 384 Q272 384 272 404 Q272 424 292 426 Q306 426 308 410 Z" fill="#fff"/>
 </g></svg></g>
-<text x="350" y="130" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700" font-size="84" fill="#f4f0fb">Texivi</text>
-<text x="354" y="172" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#b9aed4">Independent systems programmer</text>
-<g font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e9e2f7"><rect x="354" y="198" width="104" height="30" rx="15" fill="#ffffff" opacity=".1"/><text x="406" y="218" text-anchor="middle">Subverge</text><rect x="470" y="198" width="118" height="30" rx="15" fill="#ffffff" opacity=".1"/><text x="529" y="218" text-anchor="middle">UraniumOS</text><rect x="600" y="198" width="86" height="30" rx="15" fill="#ffffff" opacity=".1"/><text x="643" y="218" text-anchor="middle">Fluent</text></g></g></svg>
+<text x="350" y="150" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700" font-size="84" fill="#f4f0fb">Texivi</text>
+<text x="354" y="194" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#b9aed4">Independent systems programmer</text>
+</g></svg>
