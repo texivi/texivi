@@ -8,11 +8,11 @@
 ## Projects
 
 <table>
-<tr><td width="72"><img src="assets/subverge.svg" width="56" alt=""></td><td><a href="https://github.com/texivi/Subverge"><b>Subverge</b></a><br>A hobby x86-64 operating system written from scratch, with a stack-language shell. <a href="https://sbvrg.github.io">Site</a></td></tr>
+<tr><td width="72"><img src="assets/subverge.png" width="56" alt=""></td><td><a href="https://github.com/texivi/Subverge"><b>Subverge</b></a><br>A hobby x86-64 operating system written from scratch, with a stack-language shell. <a href="https://sbvrg.github.io">Site</a></td></tr>
 <tr><td><img src="assets/uranium.svg" width="56" alt=""></td><td><a href="https://github.com/uranium-os"><b>UraniumOS</b></a><br>A Linux distribution with btrfs snapshots and its own package manager, rod. <a href="https://uranium-os.github.io">Site</a></td></tr>
-<tr><td><img src="assets/fluent.svg" width="56" alt=""></td><td><a href="https://github.com/fluent-mac/fluent"><b>Fluent</b></a><br>A Mac app for typing practice, gesture lessons and checking a used Mac. <a href="https://fluent-mac.github.io">Site</a></td></tr>
-<tr><td><img src="assets/tswm.svg" width="56" alt=""></td><td><a href="https://github.com/texivi/tswm"><b>TSWM</b></a><br>An X11 window manager that copies Syllable Desktop.</td></tr>
-<tr><td><img src="assets/avtty.svg" width="56" alt=""></td><td><a href="https://github.com/texivi/avtty"><b>AVTTY</b></a><br>A very small text editor for the terminal.</td></tr>
+<tr><td><img src="assets/fluent.png" width="56" alt=""></td><td><a href="https://github.com/fluent-mac/fluent"><b>Fluent</b></a><br>A Mac app for typing practice, gesture lessons and checking a used Mac. <a href="https://fluent-mac.github.io">Site</a></td></tr>
+<tr><td><img src="assets/tswm.png" width="56" alt=""></td><td><a href="https://github.com/texivi/tswm"><b>TSWM</b></a><br>An X11 window manager that copies Syllable Desktop.</td></tr>
+<tr><td><img src="assets/avtty.png" width="56" alt=""></td><td><a href="https://github.com/texivi/avtty"><b>AVTTY</b></a><br>A very small text editor for the terminal.</td></tr>
 </table>
 
 ## Stack
